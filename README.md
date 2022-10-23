@@ -3,13 +3,13 @@
 
 ## SC-300 at Microsoft Learn
 
-[SC-300: Implement an identity management solution](https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/)
+[Learning Path: Implement an identity management solution](https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/)
 
-[SC-300: Implement an Authentication and Access Management solution](https://learn.microsoft.com/en-us/training/paths/implement-authentication-access-management-solution/)
+[Learning Path: Implement an Authentication and Access Management solution](https://learn.microsoft.com/en-us/training/paths/implement-authentication-access-management-solution/)
 
-[SC-300: Implement Access Management for Apps](https://learn.microsoft.com/en-us/training/paths/implement-access-management-for-apps/)
+[Learning Path: Implement Access Management for Apps](https://learn.microsoft.com/en-us/training/paths/implement-access-management-for-apps/)
 
-[SC-300: Plan and implement an identity governance strategy](https://learn.microsoft.com/en-us/training/paths/plan-implement-identity-governance-strategy/)
+[Learning Path: Plan and implement an identity governance strategy](https://learn.microsoft.com/en-us/training/paths/plan-implement-identity-governance-strategy/)
 
 
 
