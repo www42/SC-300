@@ -25,9 +25,10 @@
 
 ---
 
-[Give Feedback! (Metrics That Matter)](#sc-300-microsoft-identity-and-access-administrator)
+[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?017635C9E190126316
+)
 
-[Claim your Badge! (Microsoft Learn)](#sc-300-microsoft-identity-and-access-administrator)
+[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=3272NR&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 ---
 
