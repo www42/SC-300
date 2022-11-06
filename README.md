@@ -25,10 +25,9 @@
 
 ---
 
-[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?017635C9E190126316
-)
+[Give Feedback! (Metrics That Matter)](#sc-300-microsoft-identity-and-access-administrator)
 
-[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=3272NR&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+[Claim your Badge! (Microsoft Learn)](#sc-300-microsoft-identity-and-access-administrator)
 
 ---
 
@@ -83,16 +82,6 @@
 [My Blog](https://blog.az.training)
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
-
-[Email](mailto:thomas.jaekel@brainymotion.de?subject=AZ-900)
-
-[GitHub](https://github.com/www42)
-
-[linkedIn](https://linkedin.com/in/tjkkll)
-
-[Twitter](https://twitter.com/tjkkll)
-
-[Blog](https://blog.az.training)
 
 
 ---
