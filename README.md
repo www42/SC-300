@@ -23,13 +23,7 @@
 [SC-300 Lab instructions on GitHub](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/)
 
 
----
 
-[Give Feedback! (Metrics That Matter)](#sc-300-microsoft-identity-and-access-administrator)
-
-[Claim your Badge! (Microsoft Learn)](#sc-300-microsoft-identity-and-access-administrator)
-
----
 
 
 ## Useful links
