@@ -13,6 +13,7 @@
 - Learning Path 3: [Implement Access Management for Apps][LP3]
 - Learning Path 4: [Plan and Implement an Identity Governance Strategy][LP4]
 
+<br>
 
 
 ## Labs
