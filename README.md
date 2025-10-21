@@ -25,7 +25,7 @@
 
 <!--[Go Deploy](https://lms.godeploy.it) -->
 
-[GitHub Repo Microsoft Learn](https://github.com/foo)
+[GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator)
 
 [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/)
 
