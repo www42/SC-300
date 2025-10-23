@@ -111,8 +111,11 @@
 
 ## Useful Links
 
+[Microsoft Ignite - November 18–21, 2025](https://ignite.microsoft.com/en-US/home)
 
+[Microsoft Entra ID Authentication Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy)
 
+[Azure AD App Registrations, Enterprise Apps and Service Principals - YouTube](https://www.youtube.com/watch?v=WVNvoiA_ktw)
 
 <br>
 
