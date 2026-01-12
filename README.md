@@ -6,6 +6,16 @@
 
 # SC-300 Microsoft Identity and Access Administrator
 
+<!--
+## Seminar 13. - 16.01.2026
+
+[Präsentation](pdf/)
+
+[Claim your badges](https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=501455&source=learn&redeem=R4354M)
+
+<br>
+-->
+
 ## Learning Paths
 
 - Learning Path 1️: [Implement an Identity Management Solution][LP1]
@@ -18,7 +28,7 @@
 
 ## Labs
 
-[Lab environment Skillable](https://experteach.learnondemand.net/) 
+[Lab environment Skillable](https://alh.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
