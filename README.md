@@ -6,14 +6,14 @@
 
 # SC-300 Microsoft Identity and Access Administrator
 
-<!--
 ## Seminar 13. - 16.01.2026
 
 [Präsentation](pdf/)
 
-[Claim your badges](https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=501455&source=learn&redeem=R4354M)
-
 <br>
+
+<!--
+[Claim your badges](https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=501455&source=learn&redeem=R4354M)
 -->
 
 ## Learning Paths
@@ -118,10 +118,20 @@
 
 [Azure Command-Line Interface (CLI) documentation](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
 
+## John Savill
+
+[Azure AD App Registrations, Enterprise Apps and Service Principals](https://www.youtube.com/watch?v=WVNvoiA_ktw)
+
+[Microsoft Entra API-Driven Provisioning (SCIM)](https://www.youtube.com/watch?v=olkOYEyJB1o)
+
+[Azure AD App Proxy](https://www.youtube.com/watch?v=dcAY-qrzTYA)
+
+[Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM&)
+
+
+
 
 ## Useful Links
-
-[Microsoft Ignite - November 18–21, 2025](https://ignite.microsoft.com/en-US/home)
 
 [Microsoft Entra ID Authentication Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy)
 
