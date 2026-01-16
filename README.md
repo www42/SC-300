@@ -10,10 +10,11 @@
 
 [Präsentation](pdf/)
 
+[Claim your badges](https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=501455&source=learn&redeem=R4354M)
+
 <br>
 
 <!--
-[Claim your badges](https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=501455&source=learn&redeem=R4354M)
 -->
 
 ## Learning Paths
