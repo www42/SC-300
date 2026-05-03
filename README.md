@@ -6,15 +6,15 @@
 
 # SC-300 Microsoft Identity and Access Administrator
 
-## Seminar 13. - 16.01.2026
+<!--
+## Seminar 04. - 07.05.2026
 
 [Präsentation](pdf/)
 
-[Claim your badges](https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=501455&source=learn&redeem=R4354M)
+[Claim your badges](https://)
 
 <br>
 
-<!--
 -->
 
 ## Learning Paths
@@ -29,12 +29,14 @@
 
 ## Labs
 
+<!--
 [Lab environment Skillable](https://alh.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
+-->
 
-<!--[Go Deploy](https://lms.godeploy.it) -->
+[Go Deploy](https://lms.godeploy.it) 
 
 [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator)
 
