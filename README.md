@@ -6,15 +6,15 @@
 
 # SC-300 Microsoft Identity and Access Administrator
 
-<!--
 ## Seminar 04. - 07.05.2026
 
 [Präsentation](pdf/)
 
-[Claim your badges](https://)
+[Claim your badges](https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=575357&redeem=DL98XQ)
 
 <br>
 
+<!--
 -->
 
 ## Learning Paths
