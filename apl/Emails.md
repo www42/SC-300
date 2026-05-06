@@ -1,6 +1,6 @@
 [Microsoft Applied Skills: Get started with identities and access using Microsoft Entra - Applied Skills | Microsoft Learn](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/)
 
-Date: 2026/04/29
+Date: 2026/05/06
 
 ---
 
@@ -36,6 +36,7 @@ To: admin@M365.onmicrosoft.com
 Here are your Microsoft Entra administrative credentials for the test environment:
 
 User name: admin@M365.onmicrosoft.com
+<br>
 Password: **********
 
 You can find these credentials by clicking the **Instructions** tab.
@@ -66,7 +67,7 @@ You need to perform the following user management tasks:
 * Create the following user:
     - User principal name (UPN): BenS@M365.onmicrosoft.com
     - Display name: Ben Smith
-    - Account enabled: No.
+    - Account enabled: No
     - Job title: Accountant
     - Department: Finance
     - Usage location: United States
