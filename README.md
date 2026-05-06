@@ -121,6 +121,9 @@
 
 [Azure Command-Line Interface (CLI) documentation](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
 
+<br>
+
+
 ## John Savill
 
 [Azure AD App Registrations, Enterprise Apps and Service Principals](https://www.youtube.com/watch?v=WVNvoiA_ktw)
@@ -131,14 +134,14 @@
 
 [Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM&)
 
-
+<br>
 
 
 ## Useful Links
 
 [Microsoft Entra ID Authentication Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy)
 
-[Azure AD App Registrations, Enterprise Apps and Service Principals - YouTube](https://www.youtube.com/watch?v=WVNvoiA_ktw)
+[Get Started With the Microsoft MCP Server for Enterprise](https://learn.microsoft.com/en-us/graph/mcp-server/get-started?tabs=powershell%2Cvscode%2Chttp)
 
 <br>
 
