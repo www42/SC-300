@@ -57,6 +57,13 @@
 <br>
 
 
+## This Course on ▶️YouTube
+
+[SC-300: Microsoft Identity and Access Administrator](https://www.youtube.com/playlist?list=PLahhVEj9XNTf6lWUbZLBNULQ7uVqM5Sad)
+
+<br>
+
+
 ## New: Microsoft Applied Skills 🎉
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
