@@ -6,25 +6,14 @@
 
 # SC-300 Microsoft Identity and Access Administrator
 
-
-## Applied Skills - Get started with identities and access using Microsoft Entra
-
-[Emails](apl/Emails.md)
-
-[Start Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/)
-
-
-<br>
-
-## Seminar 04. - 07.05.2026
+<!--
+## Seminar 28. - 31.07.2026
 
 [Präsentation](pdf/)
 
-[Claim your badges](https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=575357&redeem=DL98XQ)
+[Claim your badges](https://)
 
 <br>
-
-<!--
 -->
 
 ## Learning Paths
