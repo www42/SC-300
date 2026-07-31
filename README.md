@@ -14,13 +14,12 @@
 
 [Claim your badges](https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=2013202&redeem=VZXYD3&WT.mc_id=ilt_partner_webpage_wwl&ocid=2013202)
 
+Applied Skills
 * [Microsoft Applied Skills: Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/)
-
-[Emails Entra](./apl/Get_started_with_identities_and_access_using_Microsoft_Entra-Emails.md)
+  * [Emails Entra](./apl/Get_started_with_identities_and_access_using_Microsoft_Entra-Emails.md)
 
 * [Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/)
-
-[Emails Defender XDR](./apl/Defend_against_cyberthreats_with_Microsoft_Defender_XDR-Emails.md)
+  * [Emails Defender XDR](./apl/Defend_against_cyberthreats_with_Microsoft_Defender_XDR-Emails.md)
 
 <br>
 
