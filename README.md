@@ -6,21 +6,23 @@
 
 # SC-300 Microsoft Identity and Access Administrator
 
-<!--
 ## Seminar 31.08. - 03.09.2026
 
 [Präsentation](pdf/)
 
-[Claim your badges]()
+<br>
 
 Applied Skills:
 * [Microsoft Applied Skills: Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/)
   * [Emails Entra](./apl/Get_started_with_identities_and_access_using_Microsoft_Entra-Emails.md)
 
+<br>
+<!--
 * [Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/)
   * [Emails Defender XDR](./apl/Defend_against_cyberthreats_with_Microsoft_Defender_XDR-Emails.md)
 
-<br>
+[Claim your badges]()
+
 -->
 
 ## Learning Paths 🚀
