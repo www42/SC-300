@@ -10,8 +10,6 @@
 
 [Präsentation](pdf/)
 
-<br>
-
 Applied Skills:
 * [Microsoft Applied Skills: Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/)
   * [Emails Entra](./apl/Get_started_with_identities_and_access_using_Microsoft_Entra-Emails.md)
